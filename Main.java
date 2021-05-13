@@ -27,6 +27,8 @@ public class Main
              else
               System.out.println("no records");
              break;
+      case 4:System.out.println("exiting...");
+      default:System.out.println("Invalid Choice");
      }
 
    }while(choice>0 && choice<4);
