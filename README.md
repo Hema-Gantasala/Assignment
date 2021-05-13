@@ -1,4 +1,4 @@
-#Assignment
+
 Simple Code written to take employee details.
 
 Business logic(Service class) and Main class(Utilization) are written separately.
