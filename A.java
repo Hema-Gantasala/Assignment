@@ -2,9 +2,13 @@ public class A
 {
    public static void main(String[]args)
    {
-       for(int i=1;i<=3;i++)
+      Scanner sc = new Scanner(System.in);
+		System.out.println("enter n value");
+		int n = sc.nextInt();
+      
+       for(int i=1;i<=n;i++)
         {
-           for(int j=3;j>i;j--)
+           for(int j=n;j>i;j--)
              {
                System.out.print(" ");
              }
