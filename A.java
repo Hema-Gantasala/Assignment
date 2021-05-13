@@ -1,4 +1,4 @@
-public class A
+public class EquilateralTriangle
 {
    public static void main(String[]args)
    {
